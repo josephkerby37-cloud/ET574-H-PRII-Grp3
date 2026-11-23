@@ -5,7 +5,7 @@ Issue ID,Task,Assigned To,Status,Commit ID
 4,Create my_math.py and test_math.py,Humaun,Closed,db73f54
 5,Implement sqrt(x),Kerby,Open,Paste ID
 6,Implement area_of_circle(r),Kerby,Open,Paste ID
-7,Implement factorial(n),Humaun,Open,Paste ID
+7,Implement factorial(n),Humaun,Closed,ffdb36d
 8,Implement volume_of_sphere(r),Humaun,Open,Paste ID
 9,Select and implement core function,Kenn,Pending,Paste ID
 10,Select and implement original function,Kenn,Pending,Paste ID
