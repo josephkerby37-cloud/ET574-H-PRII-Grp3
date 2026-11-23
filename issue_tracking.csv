@@ -2,7 +2,7 @@ Issue ID,Task,Assigned To,Status,Commit ID
 1,Confirm function assignments,Humaun,Closed,N/A
 2,Confirm function assignments,Kerby,Closed,N/A
 3,Confirm function assignments,Kenn,Pending,N/A
-4,Create my_math.py and test_math.py,Humaun,Open,Paste ID
+4,Create my_math.py and test_math.py,Humaun,Closed,db73f54
 5,Implement sqrt(x),Kerby,Open,Paste ID
 6,Implement area_of_circle(r),Kerby,Open,Paste ID
 7,Implement factorial(n),Humaun,Open,Paste ID
