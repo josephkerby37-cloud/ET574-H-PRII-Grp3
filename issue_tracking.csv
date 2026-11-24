@@ -9,7 +9,7 @@ Issue ID,Task,Assigned To,Status,Commit ID
 8,Implement volume_of_sphere(r),Humaun,Closed,c4d6cb9
 9,Select and implement core function,Kenn,Pending,Paste ID
 10,Select and implement original function,Kenn,Pending,Paste ID
-11,Write unit tests for Humaun's functions,Humaun,Open,Paste ID
+11,Write unit tests for Humaun's functions,Humaun,Closed,6d5ab8a
 12,Write unit tests for Kerby's functions,Kerby,Open,Paste ID
 13,Write unit tests for Kenn's functions,Kenn,Open,Paste ID
 14,Cross-test one of Kerby's functions,Humaun,Open,Paste ID
