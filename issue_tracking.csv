@@ -6,7 +6,7 @@ Issue ID,Task,Assigned To,Status,Commit ID
 5,Implement sqrt(x),Kerby,Open,Paste ID
 6,Implement area_of_circle(r),Kerby,Open,Paste ID
 7,Implement factorial(n),Humaun,Closed,ffdb36d
-8,Implement volume_of_sphere(r),Humaun,Open,Paste ID
+8,Implement volume_of_sphere(r),Humaun,Closed,c4d6cb9
 9,Select and implement core function,Kenn,Pending,Paste ID
 10,Select and implement original function,Kenn,Pending,Paste ID
 11,Write unit tests for Humaun's functions,Humaun,Open,Paste ID
