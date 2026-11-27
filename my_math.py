@@ -1,3 +1,5 @@
+import math
+
 # Name: Humaun Ahmed
 # QCC ID: YOUR_QCC_ID
 
@@ -52,3 +54,35 @@ def volume_of_sphere(r):
 
 # Name: Kenn [Last Name]
 # QCC ID: KENN_QCC_ID
+
+
+def sqrt(x):
+    """
+    Function Name: sqrt
+    Purpose: Calculates the square root of a number.
+    Parameters: x - A non-negative number.
+    Return Value: The square root of x.
+    """
+    if type(x) not in (int, float):
+        raise TypeError("Input must be a number")
+
+    if x < 0:
+        raise ValueError("Input must be non-negative")
+
+    return math.sqrt(x)
+
+
+def area_of_circle(r):
+    """
+    Function Name: area_of_circle
+    Purpose: Calculates the area of a circle.
+    Parameters: r - A non-negative radius.
+    Return Value: The area of the circle.
+    """
+    if type(r) not in (int, float):
+        raise TypeError("Radius must be a number")
+
+    if r < 0:
+        raise ValueError("Radius must be non-negative")
+
+    return math.pi * (r ** 2)
